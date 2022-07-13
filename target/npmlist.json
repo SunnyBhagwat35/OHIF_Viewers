@@ -1,0 +1,1 @@
+{"name":"root","dependencies":{"@babel/runtime":{"version":"7.5.5","dependencies":{"regenerator-runtime":{"version":"0.13.5"}}},"core-js":{"version":"3.3.4"}}}
